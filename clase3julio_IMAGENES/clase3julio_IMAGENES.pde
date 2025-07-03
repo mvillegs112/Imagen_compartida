@@ -4,7 +4,7 @@ PImage inicio;
 
 void setup () {
   size(1000,1000);
-  background(255);
+  background(0); // paula
   desenlace = loadImage("college reunion.jpeg");
 
   climax = loadImage("climax.jpg");
